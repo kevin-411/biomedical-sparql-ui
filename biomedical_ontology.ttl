@@ -1,0 +1,101 @@
+@prefix biomed: <http://example.org/biomedical#> .
+
+biomed:Article_39983069 a biomed:Article ;
+    biomed:hasAuthor biomed:Author_Chen_R,
+        biomed:Author_Fu_X,
+        biomed:Author_Lai_Y,
+        biomed:Author_Li_H,
+        biomed:Author_Li_J,
+        biomed:Author_Li_Y,
+        biomed:Author_Liu_X,
+        biomed:Author_Ma_Y,
+        biomed:Author_Meng_J,
+        biomed:Author_Qu_F,
+        biomed:Author_Shi_B,
+        biomed:Author_Tian_Y,
+        biomed:Author_Wu_B,
+        biomed:Author_Yang_H,
+        biomed:Author_Zhang_C,
+        biomed:Author_Zhang_X ;
+    biomed:hasPublicationDate "2025 Feb" ;
+    biomed:hasTitle "Temporal Trends in the Burden of Diabetes and Its Risk Factors Across the Western Pacific Region Between 1990 and 2044: A Systematic Analysis of the Global Burden of Disease Study 2019." ;
+    biomed:publishedIn biomed:Journal_Diabetes_Metab_Res_Rev .
+
+biomed:Article_39983094 a biomed:Article ;
+    biomed:hasAuthor biomed:Author_Jia_X,
+        biomed:Author_Wang_P,
+        biomed:Author_Xiong_Z,
+        biomed:Author_Ye_Y,
+        biomed:Author_Zhang_Y,
+        biomed:Author_Zhu_H ;
+    biomed:hasPublicationDate "2025 Feb 21" ;
+    biomed:hasTitle "The protective effects of Salusin-α against oxidative stress and inflammatory response in mice with gestational diabetes mellitus (GDM)." ;
+    biomed:publishedIn biomed:Journal_Arch_Physiol_Biochem .
+
+biomed:Article_39983118 a biomed:Article ;
+    biomed:hasAuthor biomed:Author_Dirne_CWGM,
+        biomed:Author_Le_Blanc_PM,
+        biomed:Author_Snijders_CCP,
+        biomed:Author_Tahtali_MA ;
+    biomed:hasPublicationDate "2025 Feb 21" ;
+    biomed:hasTitle "Prioritizing Trust in Podiatrists' Preference for AI in Supportive Roles Over Diagnostic Roles in Health Care: Qualitative Interview and Focus Group Study." ;
+    biomed:publishedIn biomed:Journal_JMIR_Hum_Factors .
+
+biomed:Author_Chen_R a biomed:Author .
+
+biomed:Author_Dirne_CWGM a biomed:Author .
+
+biomed:Author_Fu_X a biomed:Author .
+
+biomed:Author_Jia_X a biomed:Author .
+
+biomed:Author_Lai_Y a biomed:Author .
+
+biomed:Author_Le_Blanc_PM a biomed:Author .
+
+biomed:Author_Li_H a biomed:Author .
+
+biomed:Author_Li_J a biomed:Author .
+
+biomed:Author_Li_Y a biomed:Author .
+
+biomed:Author_Liu_X a biomed:Author .
+
+biomed:Author_Ma_Y a biomed:Author .
+
+biomed:Author_Meng_J a biomed:Author .
+
+biomed:Author_Qu_F a biomed:Author .
+
+biomed:Author_Shi_B a biomed:Author .
+
+biomed:Author_Snijders_CCP a biomed:Author .
+
+biomed:Author_Tahtali_MA a biomed:Author .
+
+biomed:Author_Tian_Y a biomed:Author .
+
+biomed:Author_Wang_P a biomed:Author .
+
+biomed:Author_Wu_B a biomed:Author .
+
+biomed:Author_Xiong_Z a biomed:Author .
+
+biomed:Author_Yang_H a biomed:Author .
+
+biomed:Author_Ye_Y a biomed:Author .
+
+biomed:Author_Zhang_C a biomed:Author .
+
+biomed:Author_Zhang_X a biomed:Author .
+
+biomed:Author_Zhang_Y a biomed:Author .
+
+biomed:Author_Zhu_H a biomed:Author .
+
+biomed:Journal_Arch_Physiol_Biochem a biomed:Journal .
+
+biomed:Journal_Diabetes_Metab_Res_Rev a biomed:Journal .
+
+biomed:Journal_JMIR_Hum_Factors a biomed:Journal .
+
