@@ -97,5 +97,4 @@ Running on http://127.0.0.1:5000/
 ✅ **User-friendly keyword-based search**.  
 ✅ **Dynamic SPARQL queries to fetch biomedical articles**.  
 
-Enjoy querying your **Biomedical Knowledge Base**! 🚀
 
